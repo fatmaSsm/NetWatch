@@ -8,7 +8,7 @@ A modern network monitoring dashboard built with **C#**, **.NET**, and **Windows
 
 NetWatch is a lightweight Windows desktop application designed to display useful local network and Wi-Fi connection information in a clean and modern interface.
 
-## ✨ Highlights 
+## ✨ Highlights
 
 - Real-time network connection status
 - Local IPv4 address detection
