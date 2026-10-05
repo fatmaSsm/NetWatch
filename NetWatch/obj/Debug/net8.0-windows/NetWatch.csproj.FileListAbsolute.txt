@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\bin\Debug\net8.0-windows\NetWatch.exe
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\bin\Debug\net8.0-windows\NetWatch.deps.json
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\bin\Debug\net8.0-windows\NetWatch.runtimeconfig.json
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\bin\Debug\net8.0-windows\NetWatch.dll
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\bin\Debug\net8.0-windows\NetWatch.pdb
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\obj\Debug\net8.0-windows\NetWatch.Form1.resources
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\obj\Debug\net8.0-windows\NetWatch.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\obj\Debug\net8.0-windows\NetWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\obj\Debug\net8.0-windows\NetWatch.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\obj\Debug\net8.0-windows\NetWatch.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\obj\Debug\net8.0-windows\NetWatch.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\obj\Debug\net8.0-windows\NetWatch.dll
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\obj\Debug\net8.0-windows\refint\NetWatch.dll
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\obj\Debug\net8.0-windows\NetWatch.pdb
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\obj\Debug\net8.0-windows\NetWatch.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\çalışmalarım\Assets\NetWatch\NetWatch\obj\Debug\net8.0-windows\ref\NetWatch.dll
