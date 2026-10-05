@@ -3,7 +3,7 @@
 A modern network monitoring dashboard built with **C#**, **.NET**, and **Windows Forms**.
 
 <p align="center">
-  <img src="NetWatch/screenshots/netwatch-dashboard.png" width="1000">
+  <img src="NetWatch/screenshots/netwatch-dashboard.png" height="500">
 </p>
 
 NetWatch is a lightweight Windows desktop application designed to display useful local network and Wi-Fi connection information in a clean and modern interface.
